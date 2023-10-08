@@ -24,18 +24,18 @@ Current Version: 3.0.0 (Updated on 2023)
 - Commands to change configuration afterwards.
 - Non Explicit (The bot will Only work wherever you order)
 
-<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-boost.png" align="left" width="40px">
+<img src="https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-ball.png" align="left" width="40px">
 <h3>Autocatch </h3>
    <h5>• Quest completor | Shiny hunter | Dex completor  & Awards | Custom filters, </h5> 
    <h5>• Incense Sniper(less than 1sec) | Custom delay/Random | Catches all pokemon </h5>
 
-<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-thund.png" align="left" width="40px">
+<img src="https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-battle.png" align="left" width="40px">
 <h3>Auto-Leveler & Spawner </h3>
   <h5>• Levelup Pokemons based on PokeID Queue | Choose Evolution/custom level .</h5>
   <h5>• Fast spawner | Unique & Special Spammer | Multi-modes supported</h5>
 
 
-<img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-banerus-line.gif" width="9000px">
+<img src = "" width="9000px">
 
 <h2> Contact Information: </h2>
 <img src ="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hopenexus-pfpNew.png.png" width = "300px height="200px">
