@@ -49,7 +49,8 @@ a small png formatted gif.
 
 ### Donors
 
-
 | No.| Alias         | Version     |
 |----| ------------  | ----------  |
 | 1  |  TOP 50       | Premium  💎 |
+
+[ Thank you txt ]
