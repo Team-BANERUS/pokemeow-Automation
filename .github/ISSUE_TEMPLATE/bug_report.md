@@ -1,38 +1,28 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Basic Issue Template
+about: The way the Issues are expected to be formatted,
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Title: [Bug/Query/(leave empty)] ErrorName
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to 'program'
-2. Click on 'console'
-3. Scroll down to 'error'
-4. Copy the error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+# Body:
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Problem:
+Here, write up a brief description about the error you are facing.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Steps to Reproduce:
+List out the steps you took to come upon the error.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## config.json:
+Most of the problems arise due to badly edited config.json. Hence post the contents of it within codeblocks. (Select the contents here and press code button on top.)
 
-**Additional context**
-Add any other context about the problem here.
+## Traceback and Screenshots:
+Paste the Traceback/Error here using codeblocks.
+Post relevant screenshots.
+
+## Specs.
+**OS**:
+**Bot Version**:
+**Lang Version**:
