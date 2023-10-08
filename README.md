@@ -7,4 +7,49 @@
 -->
 
 # Pokemeow-Automation
-Revolutionary Grinder/Farmer for Pokemeow Discord Bot! With our innovative system, you can now effortlessly bypass Pokemeow's catch and grind limitations. Experience a whole new level of efficiency!
+
+[LOGO]
+This specific bot was designed to automatically catch pokemon spawned on Discord by Pokemeow bot. It also offers other utility functions to automate features like Lootbox, Egg, Quest, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
+
+[IMG]
+Current Version: 3.0.0 (Updated on 2023)
+
+
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-line.gif" width="9000px">
+<h1 align="center">Features ✨</h1>
+STuff here
+
+
+<img src = "https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-banerus-line.gif" width="9000px">
+
+<h2> Contact Information: </h2>
+<img src ="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hopenexus-pfpNew.png.png" width = "300px height="200px">
+Discord Server: https://discord.gg/skwEWhWGWw01 (remove 01 from the end) </br>
+<ins>Make sure to DM me only and avoid exposure about buying it in the Discord Server</ins>
+
+  <h2> Check out the promo video: </h2>
+  <a href="https://www.youtube.com/watch?v=K4NgEifTM1M">
+    <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/Poketwo-thumb.jpg" width="380" />
+  </a>
+
+## Perks
+ - Professionally Designed & Top-Notch Product/Program
+ - Best Support & Guides & Queries
+ - Request New Features
+ - Lightweight & most Advanced with ease of usage
+ - Runs on all devices: Phone & Desktop
+
+## Disclaimer                                                                                                                       
+1. This Project Will be Continued Till Pokemeow is Present and We will Never stop Updating this Autocatcher & Automation`(Lifetime)`
+2. We recommend to use as Bot, Selfbots are against Discord TOS but they rarely detects.
+3. If you would like to use in Public server,Use the delay & priority system in our program to catch at humanic speed.
+
+# Testimonials
+a small png formatted gif.
+
+### Donors
+
+
+| No.| Alias         | Version     |
+|----| ------------  | ----------  |
+| 1  |  TOP 50       | Premium  💎 |
