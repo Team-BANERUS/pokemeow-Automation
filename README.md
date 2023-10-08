@@ -68,4 +68,5 @@ a small png formatted gif.
 |----| ------------  | ----------  |
 | 1  |  TOP 50       | Premium  💎 |
 
-[ Thank you txt ]
+No longer updating Donor's list.
+[thank you txt]
