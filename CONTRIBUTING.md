@@ -1,120 +1,63 @@
+# Contributions
+
+In order to contribute use GitHub's Issues and Pull Requests systems.
+
++ > **Issues**: For tracking bugs, queries, error reports, etc. open an Issue. 
+
++ > **Pull Request**: To add improvements, bug fixes, code refactors, new dependencies, etc., open a PR
+
+## Issues
+
+1. Please use relevant issue titles, instead of "help me fix this", "what is wrong", etc.
+   + > If it is a query, use a `[Question]` or `[Query]` before the issue title.
+   + > If it is definitely a bug in the bot, mark it as `[Bug]`.
+   + > If it is an error on your end or not sure, then simply state the title with no marking.
+
+2. Before you open up a new issue, please refer to the [closed issues](https://github.com/Team-BANERUS/pokemeow-Automation/issues?q=is%3Aissue+is%3Aclosed) first.
+
+3. If your issue got closed but it hasn't been resolved, please reopen that issue instead of creating a new one.
+   + > If it is a new type of error, then you can create a new issue.
+
+4. Do not hesitate to mention the issue number of another issue (open/closed) if it is relevant to your own issue. Just make sure it is not a duplicate.
+   + > For example, you tried out the steps in another issue but came up with a new error, mention that issue number in `#num` format.
+
+5. Always try to fit it all your messages and content in a single comment. You can always edit a previous comment to add new info. Just add a `*Edit*` before it.
+
+6. Feel free to comment on other's issues if you have any info pertaining to it.
+
+## Pull request
+
+1. Open a PR only if you are certain that it will have an advantage over the current code.
+
+2. Use the following tags in the title to classify the PR:
+   + > **Docs**: Improvements in the documentation of the repo/code.
+   + > **Bug Fix**: For patches that fix the ongoing bugs.
+   + > **Enhancement**: For code refactoring and improvements in the code.
+   + > **New Feature**: For adding new features and functions.
+
+3. Describe your PR accurately. Within the code, comment at the changes, explaining why it is an improvement.
+   + > The body of the PR should summarize all the changes.
+
+4. Make sure your fork is upto date with the master branch before adding your modifications to it.
+   + > Google up how to keep forks in sync with the origin. *Spoiler* (You'll need to download Git Bash and make changes locally.)
+
+5. PRs will be merged only after a thorough review by me. So stay patient till I check them out.
+   + > I usually give PRs maximum priority unless there is a [Breaking Bug] or a [Major Update].
+
+6. Make sure you test out your modifications locally and also make sure that they can be applied globally, not just limited to your local system.
 
 
-# Simplest Way to contribute! (For EVERYONE/ANYONE)
-- Donating/Purchasing This Program/Software/
-- Starring the Repo.
-- Forking the Repo.
-- Referring to Other Person.
+## Other Ways to Contribute
++ **Donations**
 
-<h2>We are Really Thankful, 💝 If you are Contributing by Any Method Mentioned Above.</h2>
+  <a href="https://github.com/Team-BANERUS/pokemeow-Automation"><img src="IMG" width="100" height="100" alt="Feature Requests"/></a>
 
++ You can request **new features** at the banerus.
 
+  <a href="https://banerus.com"><img src="IMG" width="100" height="100" alt="Feature Requests"/></a>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
++ **Starring the Repo**
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+  <a href="https://banerus.com/"><img src="IMG" width="100" height="100" alt="Feature Requests"/></a>
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-# Request for CODING CONTRIBUTORS [BELOW]
-
-</br>
-
-# Request for contributions
-
-Please contribute to this repository if any of the following is true:
-- You have expertise in community development, communication, or education
-- You want open source communities to be more collaborative and inclusive
-- You want to help lower the burden to first time contributors
-Prerequisites:
-- Familiarity with [pull requests](https://help.github.com/articles/using-pull-requests) and [issues](https://guides.github.com/features/issues/).
-- Knowledge of [Markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents.
-
-In particular, this community seeks the following types of contributions:
-
-- **Ideas**: participate in an issue thread or start your own to have your voice
-heard.
-- **Resources**: submit a pull request to add with links to related content.
-- **Outline sections**: help us ensure that this repository is comprehensive. if
-there is a topic that is overlooked, please add it, even if it is just a stub
-in the form of a header and single sentence. Initially, most things fall into
-this category.
-- **Writing**: contribute your expertise in an area by helping us expand the included
-content.
-- **Copy editing**: fix typos, clarify language, and generally improve the quality
-of the content.
-- **Formatting**: help keep content easy to read with consistent formatting.
-
-# Conduct
-
-We are committed to providing a friendly, safe and welcoming environment for
-all, regardless of gender, sexual orientation, disability, ethnicity, religion,
-or similar personal characteristic.
-
-On Discord, please avoid using overtly sexual nicknames or other nicknames that
-might detract from a friendly, safe and welcoming environment for all.
-
-Please be kind and courteous. There's no need to be mean or rude.
-Respect that people have differences of opinion and that every design or
-implementation choice carries a trade-off and numerous costs. There is seldom
-a right answer, merely an optimal answer given a set of values and
-circumstances.
-
-Please keep unstructured critique to a minimum. If you have solid ideas you
-want to experiment with, make a fork and see how it works.
-
-We will exclude you from interaction if you insult, demean or harass anyone.
-That is not welcome behaviour. We interpret the term "harassment" as
-including the definition in the
-[Citizen Code of Conduct](http://citizencodeofconduct.org/);
-if you have any lack of clarity about what might be included in that concept,
-please read their definition. In particular, we don't tolerate behavior that
-excludes people in socially marginalized groups.
-
-Private harassment is also unacceptable. No matter who you are, if you feel
-you have been or are being harassed or made uncomfortable by a community
-member, please contact one of the channel ops or any of the
-[CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md) core team
-immediately. Whether you're a regular contributor or a newcomer, we care about
-making this community a safe place for you and we've got your back.
-
-Likewise any spamming, trolling, flaming, baiting or other attention-stealing
-behaviour is not welcome.
-
-# Communication
-
-There is a Discord Server , You may Join it. You're
-welcome to drop in and ask questions, discuss bugs and such. The channel is
-not currently logged.
-
-GitHub issues are the primary way for communicating about specific proposed
-changes to this project.
-
-In both contexts, please follow the conduct guidelines above. Language issues
-are often contentious and we'd like to keep discussion brief, civil and focused
-on what we're actually doing, not wandering off into too much imaginary stuff.
-
---------------------------------------------------------------------------------------------------
++ **Referrals**  
