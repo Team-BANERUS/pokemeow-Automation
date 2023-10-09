@@ -72,6 +72,8 @@ a small png formatted gif.
 | 3  | dagger_mace   | Premium  💎 |
 | 4  | witherr.      | Premium  💎 |
 | 5  | OPisReal      | Premium  💎 |
+| 6  | ellewoods     | Premium  💎 |
+| 7  | metspek       | Premium  💎 |
 
 
 No longer updating Donor's list.
