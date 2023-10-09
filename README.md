@@ -49,9 +49,10 @@ Current Version: 3.0.0 (Updated on 2023)
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-hrt.png" align="left" width="40px">
 <h3>Worth Mentioning </h3>
-  <h5>• LightWeight program | Professionally designed & coded with Premium delight Looks </h5>
-  <h5>• This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about grinding Pokemeow.</h5>
-  <h5>• Automatic captcha solving.</h5>
+
+- LightWeight program | Professionally designed & coded with Premium delight Looks
+- This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about grinding Pokemeow.
+- Automatic captcha solving.
 
 <img src = "https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-redline.png" width="9000px">
 
