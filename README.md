@@ -8,12 +8,13 @@
 
 # Pokemeow-Automation
 
-![It actually works lol](https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/Assets/Pokemeow-preview.gif)
+[logo]
  </br>
 
 This specific bot was designed to automatically catch pokemon spawned on Discord by Pokemeow bot. It also offers other utility functions to automate features like Lootbox, Egg, Quest, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
 
-[IMG] </br>
+![It actually works lol](https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/Assets/Pokemeow-preview.gif) 
+</br>
 
 Current Version: 3.0.0 (Updated on 2023)
 
