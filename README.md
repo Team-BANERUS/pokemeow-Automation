@@ -90,7 +90,7 @@ a small png formatted gif.
 | 21 | Harrison.py#8556 | Premium  💎 |
 | 22 | everosely     | Premium  💎 |
 | 23 | Micky#7839    | Premium  💎 |
-
+| 24 | krodin        | Premium  💎 |
 
 No longer updating Donor's list.
 [thank you txt]
