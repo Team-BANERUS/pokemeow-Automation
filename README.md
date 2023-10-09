@@ -96,6 +96,7 @@ a small png formatted gif.
 | 27 | Artemisfont#3708 | Premium  💎 |
 | 28 | aviee._0      | Premium  💎 |
 | 29 | thing7226     | Premium  💎 |
+| 30 | kylasazandora | Premium  💎 |
 
 No longer updating Donor's list.
 [thank you txt]
