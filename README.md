@@ -35,7 +35,7 @@ Current Version: 3.0.0 (Updated on 2023)
   <h5>• Fast spawner | Unique & Special Spammer | Multi-modes supported</h5>
 
 
-<img src = "" width="9000px">
+<img src = "https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-redline.png" width="9000px">
 
 <h2> Contact Information: </h2>
 <img src ="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/hopenexus-pfpNew.png.png" width = "300px height="200px">
@@ -66,7 +66,9 @@ a small png formatted gif.
 
 | No.| Alias         | Version     |
 |----| ------------  | ----------  |
-| 1  |  TOP 50       | Premium  💎 |
+| 0  |  TOP 50       | Premium  💎 |
+| 1  | NinjaBastille | Premium  💎 |
+
 
 No longer updating Donor's list.
 [thank you txt]
