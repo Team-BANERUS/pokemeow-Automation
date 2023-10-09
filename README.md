@@ -69,6 +69,10 @@ a small png formatted gif.
 | 0  |  TOP 50       | Premium  💎 |
 | 1  | NinjaBastille | Premium  💎 |
 | 2  | RooRider      | Premium  💎 |
+| 3  | dagger_mace   | Premium  💎 |
+| 4  | witherr.      | Premium  💎 |
+| 5  | OPisReal      | Premium  💎 |
+
 
 No longer updating Donor's list.
 [thank you txt]
