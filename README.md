@@ -69,11 +69,26 @@ a small png formatted gif.
 | 0  |  TOP 50       | Premium  💎 |
 | 1  | NinjaBastille | Premium  💎 |
 | 2  | RooRider      | Premium  💎 |
-| 3  | dagger_mace   | Premium  💎 |
+| 3  | dagger mace   | Premium  💎 |
 | 4  | witherr.      | Premium  💎 |
 | 5  | OPisReal      | Premium  💎 |
 | 6  | ellewoods     | Premium  💎 |
 | 7  | metspek       | Premium  💎 |
+| 8  | dotkura       | Premium  💎 |
+| 9  |☆Dorito☆#8644  | Premium  💎 |
+| 10 | scrumpy       | Premium  💎 |
+| 11 | krisppykreme  | Premium  💎 |
+| 12 | 11pixels      | Premium  💎 |
+| 13 | 420sassylilelfy  | Premium  💎 |
+| 14 | Masterball™#9778 | Premium  💎 |
+| 15 | captain_coldheart | Premium  💎 |
+| 16 | mnti.         | Premium  💎 |
+| 17 | hoomanpurrent | Premium  💎 |
+| 18 | tydal_shark   | Premium  💎 |
+| 19 | Harshad Kapa  | Premium  💎 |
+| 20 | spaghettiioo  | Premium  💎 |
+
+
 
 
 No longer updating Donor's list.
