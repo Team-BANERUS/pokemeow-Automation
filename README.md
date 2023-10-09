@@ -91,6 +91,8 @@ a small png formatted gif.
 | 22 | everosely     | Premium  💎 |
 | 23 | Micky#7839    | Premium  💎 |
 | 24 | krodin        | Premium  💎 |
+| 25 | ~CC~#2474     | Premium  💎 |
+
 
 No longer updating Donor's list.
 [thank you txt]
