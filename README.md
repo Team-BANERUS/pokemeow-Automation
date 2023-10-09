@@ -25,15 +25,31 @@ Current Version: 3.0.0 (Updated on 2023)
 - Non Explicit (The bot will Only work wherever you order)
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-ball.png" align="left" width="40px">
-<h3>Autocatch </h3>
-   <h5>• Quest completor | Shiny hunter | Dex completor  & Awards | Custom filters, </h5> 
-   <h5>• Incense Sniper(less than 1sec) | Custom delay/Random | Catches all pokemon </h5>
+<h3>Autohunt </h3>
+
+- Throw Pokeballs depending on the rarity of the Pokemon
+- Buy Pokeballs when you're out of stock (Custom amount)
+
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-battle.png" align="left" width="40px">
-<h3>Auto-Leveler & Spawner </h3>
-  <h5>• Levelup Pokemons based on PokeID Queue | Choose Evolution/custom level .</h5>
-  <h5>• Fast spawner | Unique & Special Spammer | Multi-modes supported</h5>
+<h3>Auto-Battle </h3>
 
+- battletower
+
+
+<img src="https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-battle.png" align="left" width="40px">
+<h3>Miscellaneous </h3>
+
+- Handle your eggs
+- Use Repels and Golden Razz Berries 
+- Open boxes in your bag [Enable/Disable]
+- Can fish for you
+
+<img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-hrt.png" align="left" width="40px">
+<h3>Worth Mentioning </h3>
+  <h5>• LightWeight program | Professionally designed & coded with Premium delight Looks </h5>
+  <h5>• This program is not for those who want Trash Autocatchers! It is more than just a *Autocatcher*. It's all about grinding Pokemeow.</h5>
+  <h5>• Automatic captcha solving.</h5>
 
 <img src = "https://raw.githubusercontent.com/Team-BANERUS/pokemeow-Automation/main/Assets/banerus-redline.png" width="9000px">
 
