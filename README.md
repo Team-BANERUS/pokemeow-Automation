@@ -16,7 +16,7 @@ This specific bot was designed to automatically catch pokemon spawned on Discord
 ![It actually works lol](https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/Assets/Pokemeow-preview.gif) 
 </br>
 
-Current Version: 3.0.0 (Updated on 2023)
+Current Version: 3.0.0 (Updated on 2024)
 
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/Assets/gif-line.gif" width="9000px">
