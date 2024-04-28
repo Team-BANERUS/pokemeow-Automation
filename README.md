@@ -118,7 +118,7 @@ a small png formatted gif.
 | 30 | kylasazandora | Premium  💎 |
 | 31 | CountJesus    | Premium  💎 |
 | 32 | ZoroAqui      | Premium  💎 |
-
+| 33 | baldev_the    | Premium  💎 |
 
 No longer updating Donor's list.
 [thank you txt]
